@@ -1,6 +1,7 @@
 ## Intsall
 ```
 python -m venv venv
-pip install -r req.txt
-python ball.py
+.\venv\Scripts\activate
+pip install -r .\req.txt
+python .\ball.py
 ```
