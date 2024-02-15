@@ -1,6 +1,6 @@
 ## Intsall
 ```
 python -m venv venv
-pip install req.txt
+pip install -r req.txt
 python ball.py
 ```
